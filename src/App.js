@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       
-     <h1>This is my first Netlify Deployment to test.</h1>
+     <h1>This is my first React App deployed on Netlify.</h1>
     </div>
   );
 }
